@@ -1,7 +1,12 @@
+# * Proyecto Sprint #2 - *Track UX Laboratoria**
+
+![portadastc](https://user-images.githubusercontent.com/31967563/38587156-1517e5ea-3ce6-11e8-9667-866b6e970668.png)
+
+
 ![logo](images/logo-save.png)
 
 
-# * Proyecto Sprint #2 - *Track UX Laboratoria**
+
 * Organización con la que se trabajó: *Save the Children México**
 
 *Introducción: Save the Children es la organización líder en la defensa y promoción de los derechos de niñas, niños y adolescentes, que surgió hace más de 90 años como una respuesta humanitaria después de la Primera Guerra Mundial.*
