@@ -57,31 +57,31 @@ https://invis.io/26GCC2Y8VTR
 # ENCUESTA
 
 Con el prototipo anterior se creó una encuesta la cual arrojo los siguientes resultados:
-![encuesta](assets/images/encuesta.png)
+![encuesta](images/encuesta.png)
 
 # INSIGHTS
 
 En base a los resultados obtenidos en la encuesta se pudieron obtene varios insights los cuales se muestran a continuación:
-![insights](assets/images/insights.png)
+![insights](images/insights.png)
 
 # BACKLOG
 
 Con los datos de toda la investigación se comenzó a crear el backlog de producto y se procedió a proponer soluciones
 
-![backlog](assets/images/backlog1.png)
-![backlog](assets/images/backlog2.png)
+![backlog](images/backlog1.png)
+![backlog](images/backlog2.png)
 
 # *Sketch*
-![Landing Page](.images/sketch.png)
+![Landing Page](images/sketch.png)
 
 # SOLUCION
 
 Al final se hizo una combinación de aspectos de las propuestas y el resultado final se muestra a continuación:
 Landing Page
-![landing](assets/images/landing.png)
+![landing](images/landing.png)
 Formulario Donación
-![formulario](assets/images/form.png)
+![formulario](images/form.png)
 Agradecimiento de donación
-![agradecimiento](assets/images/gracias.png)
+![agradecimiento](images/gracias.png)
 
 
