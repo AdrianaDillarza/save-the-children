@@ -41,11 +41,13 @@ Generar donantes recurrentes a través del journey que hace un usuario a través
 # USER PERSONA
 
 Se debe establecer quien es el user persona para poder entender como reaccionaría y con esto crear el journey de donación
+![user](images/user.png)
 
 
 # CUSTOMER JOURNEY MAP
 
 En base al user persona definido anteriormente se define su jouney map
+![journey](images/journey.png)
 
 
 # TESTEO DE JOURNEY ACTUAL
