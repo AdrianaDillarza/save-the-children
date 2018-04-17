@@ -1,10 +1,9 @@
-# * Proyecto Sprint #2 - *Track UX Laboratoria**
+# Save the Children
+## Desarrollado para [Save the Children Mexico](https://www.savethechildren.mx/)
 
-![portadastc](https://user-images.githubusercontent.com/31967563/38587156-1517e5ea-3ce6-11e8-9667-866b6e970668.png)
+## * Proyecto Sprint #2 - *Track UX Laboratoria**
 
-
-![logo](images/logo-save.png)
-
+![portadastc](https://www.google.com.mx/search?q=save+the+children+logo&rlz=1C1TSNS_enMX721MX721&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiLq5aH-8HaAhUDGKwKHanpBvkQ_AUICigB&biw=1366&bih=588#imgrc=yJKsoku-xrHoPM:)
 
 
 * Organización con la que se trabajó: *Save the Children México**
