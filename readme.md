@@ -3,8 +3,7 @@
 
 ## * Proyecto Sprint #2 - *Track UX Laboratoria**
 
-![save-the-children-logo](https://user-images.githubusercontent.com/31967563/38889973-c321b224-4245-11e8-8ca5-25dfa1e40d9f.jpg)
-
+![stc-portada](https://user-images.githubusercontent.com/31967563/38892226-4be38e9c-424c-11e8-8b38-0613376fc324.png)
 
 * Organización con la que se trabajó: *Save the Children México**
 
